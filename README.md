@@ -1,188 +1,257 @@
-**Hi, I'm Bupe Kolosa** 👋
+# Hi, I'm Bupe Kolosa 👋
 
 **MSc Data Science · Mathematics & Business Analytics · Data Analyst · Analytics Consultant · Lecturer**
 
-I use data science, statistical modelling, machine learning, and business intelligence to solve practical problems in public health, finance, business, and development—with a particular interest in challenges facing Zambia and other African economies.
+I use **data science, statistical modelling, machine learning, and business intelligence** to solve practical problems in public health, finance, business, and development—with a particular interest in challenges facing **Zambia and other African economies**.
 
-My work sits at the intersection of data, mathematics, technology, and decision-making. I am interested not only in building models, but also in understanding whether the data are reliable, whether the methodology is appropriate, and whether the resulting analysis can support a real-world decision.
+My work sits at the intersection of **data, mathematics, technology, and decision-making**. I am interested not only in building models, but also in understanding whether the data are reliable, whether the methodology is appropriate, and whether the resulting analysis can support a real-world decision.
 
-I work with Python, R, SQL, STATA, Excel, Power BI, and Jupyter, applying statistical and machine-learning methods to transform complex datasets into interpretable evidence.
+I work with **Python, R, SQL, STATA, Excel, Power BI, and Jupyter**, applying statistical and machine-learning methods to transform complex datasets into interpretable evidence.
 
-🔎 What I Work On
+---
 
-🧬 Public Health & Health Data Science — NCDs, HIV, metabolic health, health-service data
+## 🔎 What I Work On
 
-🤖 Machine Learning — classification, clustering, feature selection, model evaluation and explainability
+* 🧬 **Public Health & Health Data Science** — NCDs, HIV, metabolic health, health-service data
+* 🤖 **Machine Learning** — classification, clustering, feature selection, model evaluation and explainability
+* 📊 **Business Intelligence** — dashboards, reporting, data quality and decision-support analytics
+* 💳 **Financial & Credit Analytics** — portfolio analysis, risk analytics and financial performance monitoring
+* 📈 **Statistical & Econometric Modelling** — regression, forecasting, time series and quantitative modelling
+* 🏛️ **Development & Public Policy Analytics** — economic, governance and institutional data
+* 💻 **ICT & Data Science Education** — applying technology and analytics to teaching and research
 
-📊 Business Intelligence — dashboards, reporting, data quality and decision-support analytics
+---
 
-💳 Financial & Credit Analytics — portfolio analysis, risk analytics and financial performance monitoring
-
-📈 Statistical & Econometric Modelling — regression, forecasting, time series and quantitative modelling
-
-🏛️ Development & Public Policy Analytics — economic, governance and institutional data
-
-💻 ICT & Data Science Education — applying technology and analytics to teaching and research
-
-🧪 Research & Applied Analytics
+## 🧪 Research & Applied Analytics
 
 My portfolio focuses on questions where quantitative analysis can contribute to practical decisions.
 
-🩺 Machine Learning for NCD Classification Among People Living With HIV in Zambia
+### 🩺 Machine Learning for NCD Classification Among People Living With HIV in Zambia
 
 Research examining the use of machine-learning techniques to classify prevalent non-communicable disease among people living with HIV in Zambia.
 
-Methods & tools:
+**Methods & tools:**
 
-Python Pandas Scikit-learn Machine Learning SHAP Cross-validation Model Calibration
+`Python` `Pandas` `Scikit-learn` `Machine Learning` `SHAP` `Cross-validation` `Model Calibration`
 
 The work focuses on developing leakage-aware predictive models, evaluating discrimination and calibration, and interpreting model behaviour in a public-health context.
 
-🧬 Latent Metabolic Risk Profiles Among Adults With HIV in Zambia
+---
+
+### 🧬 Latent Metabolic Risk Profiles Among Adults With HIV in Zambia
 
 An unsupervised-learning study investigating whether adults living with HIV can be grouped into distinct metabolic risk profiles.
 
-Methods:
+**Methods:**
 
-Clustering PCA K-Means Silhouette Analysis Davies-Bouldin Index Calinski-Harabasz Index
+`Clustering` `PCA` `K-Means` `Silhouette Analysis` `Davies-Bouldin Index` `Calinski-Harabasz Index`
 
 The analysis identifies heterogeneous metabolic profiles and examines their clinical characteristics rather than treating metabolic risk as a single homogeneous population.
 
-🏦 Business & Financial Analytics
+---
+
+### 🏦 Business & Financial Analytics
+
 I also work on analytics problems involving:
 
-Credit and portfolio risk
-Financial performance monitoring
-Portfolio segmentation
-Data quality and reconciliation
-Risk reporting
-Business dashboards
-Quantitative decision-making
-The objective is to connect technical analysis with business decisions that stakeholders can actually act on.
+* Credit and portfolio risk
+* Financial performance monitoring
+* Portfolio segmentation
+* Data quality and reconciliation
+* Risk reporting
+* Business dashboards
+* Quantitative decision-making
 
-📂 Featured Projects
-🩺 HIV & NCD Machine Learning
-Classifying prevalent NCD among people living with HIV in Zambia using machine learning
+The objective is to connect technical analysis with **business decisions that stakeholders can actually act on**.
+
+---
+
+## 📂 Featured Projects
+
+### 🩺 HIV & NCD Machine Learning
+
+**Classifying prevalent NCD among people living with HIV in Zambia using machine learning**
 
 A supervised-learning project investigating whether routinely available demographic, behavioural, treatment and access-to-care variables can support classification of prevalent NCD among people living with HIV.
 
-Key techniques: Random Forest SVM Gradient Boosting Logistic Regression SMOTE GroupKFold SHAP ROC-AUC PR-AUC Calibration
+**Key techniques:**
+`Random Forest` `SVM` `Gradient Boosting` `Logistic Regression` `SMOTE` `GroupKFold` `SHAP` `ROC-AUC` `PR-AUC` `Calibration`
 
-🧬 Metabolic Risk Clustering
-Uncovering latent metabolic risk profiles among adults with HIV in Zambia
+---
+
+### 🧬 Metabolic Risk Clustering
+
+**Uncovering latent metabolic risk profiles among adults with HIV in Zambia**
 
 An unsupervised-learning project identifying clinically meaningful subgroups using anthropometric and metabolic indicators.
 
-Key techniques: PCA Clustering Cluster Validation Dimensionality Reduction Python
+**Key techniques:**
+`PCA` `Clustering` `Cluster Validation` `Dimensionality Reduction` `Python`
 
-🗳️ Zambia Electoral Data Analysis
-Historical electoral data analysis and political-economic research
+---
+
+### 🗳️ Zambia Electoral Data Analysis
+
+**Historical electoral data analysis and political-economic research**
 
 A public-data project working with historical Zambian presidential election and constituency-level results to explore electoral patterns and develop reproducible analytical datasets.
 
-Key tools: Python Pandas Data Cleaning Data Visualisation Statistical Analysis
+**Key tools:**
+`Python` `Pandas` `Data Cleaning` `Data Visualisation` `Statistical Analysis`
 
-🌍 Zambia Economic & Governance Analytics
+---
+
+### 🌍 Zambia Economic & Governance Analytics
+
 I work with publicly available datasets to investigate questions around:
 
-Economic perceptions
-Governance
-Household and national economic conditions
-Public policy
-Development outcomes
-The emphasis is on reproducible analysis and evidence-based interpretation, rather than simply producing charts.
+* Economic perceptions
+* Governance
+* Household and national economic conditions
+* Public policy
+* Development outcomes
 
-🎓 Academic & Professional Background
-MSc Data Science
+The emphasis is on **reproducible analysis and evidence-based interpretation**, rather than simply producing charts.
+
+---
+
+## 🎓 Academic & Professional Background
+
+### MSc Data Science
+
 My postgraduate training has strengthened my ability to combine:
 
-Mathematical modelling
-Statistics
-Machine learning
-Programming
-Data management
-Research methodology
-Mathematics & Business Analytics
+* Mathematical modelling
+* Statistics
+* Machine learning
+* Programming
+* Data management
+* Research methodology
+
+### Mathematics & Business Analytics
+
 My mathematical background provides a strong foundation in quantitative reasoning, modelling and problem solving, while my business analytics experience helps translate technical findings into practical decisions.
 
-Lecturer & Data Analytics Trainer
-I teach and facilitate learning in areas related to ICT, mathematics, statistics, business analytics and data-driven decision-making.
+### Lecturer & Data Analytics Trainer
 
-I also work as a Data Analytics Trainer and Consultant, developing practical analytical training materials and supporting organisations in using data more effectively.
+I teach and facilitate learning in areas related to **ICT, mathematics, statistics, business analytics and data-driven decision-making**.
 
-🛠️ Technical Stack
-💻 Programming & Data Analysis
-Python R SQL STATA
+I also work as a **Data Analytics Trainer and Consultant**, developing practical analytical training materials and supporting organisations in using data more effectively.
 
-📊 Business Intelligence & Analytics
-Power BI Excel
+---
 
-🤖 Machine Learning & Statistics
-Scikit Learn Pandas NumPy Jupyter
+## 🛠️ Technical Stack
 
-⚙️ Tools & Workflow
-Git GitHub
+### 💻 Programming & Data Analysis
 
-Core capabilities:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![STATA](https://img.shields.io/badge/Stata-1A5F7A?style=for-the-badge\&logo=stata\&logoColor=white)
 
-Data Cleaning · Exploratory Data Analysis · Statistical Modelling · Machine Learning · Clustering · Classification · Feature Engineering · Model Evaluation · Data Visualisation · Dashboard Development · Data Quality · Research Analytics
+### 📊 Business Intelligence & Analytics
 
-🔬 Research Interests
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+### 🤖 Machine Learning & Statistics
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+### ⚙️ Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+**Core capabilities:**
+
+`Data Cleaning` · `Exploratory Data Analysis` · `Statistical Modelling` · `Machine Learning` · `Clustering` · `Classification` · `Feature Engineering` · `Model Evaluation` · `Data Visualisation` · `Dashboard Development` · `Data Quality` · `Research Analytics`
+
+---
+
+## 🔬 Research Interests
+
 My current research interests include:
 
-Data Science for Public Health
-Machine Learning in Healthcare
-Public Health Informatics
-HIV & Non-Communicable Diseases
-Metabolic Risk & Population Health
-Health Information Systems
-ICT for Health & Development
-Financial & Credit Risk Analytics
-Business Intelligence
-Applied Statistical Modelling
-Data-Driven Public Policy
-Digital Transformation in Africa
-I am particularly interested in research that connects ICT and data science with real institutional and societal problems.
+* **Data Science for Public Health**
+* **Machine Learning in Healthcare**
+* **Public Health Informatics**
+* **HIV & Non-Communicable Diseases**
+* **Metabolic Risk & Population Health**
+* **Health Information Systems**
+* **ICT for Health & Development**
+* **Financial & Credit Risk Analytics**
+* **Business Intelligence**
+* **Applied Statistical Modelling**
+* **Data-Driven Public Policy**
+* **Digital Transformation in Africa**
 
-📚 Research Philosophy
-Good analytics starts with a good question—not a sophisticated algorithm.
+I am particularly interested in research that connects **ICT and data science with real institutional and societal problems**.
+
+---
+
+## 📚 Research Philosophy
+
+> **Good analytics starts with a good question—not a sophisticated algorithm.**
 
 I care about:
 
-Question → Data Quality → Methodology → Validation → Interpretation → Decision
+**Question → Data Quality → Methodology → Validation → Interpretation → Decision**
 
 A technically impressive model is not useful if the underlying data are poorly understood, the evaluation strategy is inappropriate, or the findings cannot be translated into action.
 
-My goal is to build analytical work that is reproducible, transparent, interpretable and useful.
+My goal is to build analytical work that is **reproducible, transparent, interpretable and useful**.
 
-🌍 Zambia-Focused Data Science
+---
+
+## 🌍 Zambia-Focused Data Science
+
 A major focus of my portfolio is using publicly available and research datasets to investigate problems relevant to Zambia.
 
 Examples include:
 
-🇿🇲 Public health and HIV 🇿🇲 NCDs and metabolic health 🇿🇲 Financial inclusion and credit 🇿🇲 Economic development 🇿🇲 Governance and public perceptions 🇿🇲 Elections and electoral data 🇿🇲 Business performance 🇿🇲 ICT and digital transformation
+🇿🇲 Public health and HIV
+🇿🇲 NCDs and metabolic health
+🇿🇲 Financial inclusion and credit
+🇿🇲 Economic development
+🇿🇲 Governance and public perceptions
+🇿🇲 Elections and electoral data
+🇿🇲 Business performance
+🇿🇲 ICT and digital transformation
 
-I believe African data science should not only reproduce examples from other markets. It should also generate locally relevant evidence for African institutions, businesses, researchers and policymakers.
+I believe African data science should not only reproduce examples from other markets. It should also generate **locally relevant evidence for African institutions, businesses, researchers and policymakers**.
 
-📈 GitHub Analytics
-GitHub Stats
+---
 
-Top Languages
+## 📈 GitHub Analytics
 
-🤝 Let's Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
 I am interested in collaborating on projects involving:
 
-Data science
-Public health analytics
-Machine learning
-Business intelligence
-Financial analytics
-ICT research
-Applied statistics
-Research and policy analytics
-📧 Email: bupekolosa@gmail.com
+* Data science
+* Public health analytics
+* Machine learning
+* Business intelligence
+* Financial analytics
+* ICT research
+* Applied statistics
+* Research and policy analytics
 
-💼 LinkedIn: www.linkedin.com/in/bupe-kolosa
+📧 **Email:** bupekolosa@gmail.com
 
-🐙 GitHub: (https://github.com/bupe1800)
+💼 **LinkedIn:** www.linkedin.com/in/bupe-kolosa
+
+🐙 **GitHub:** (https://github.com/bupe1800)
+
+---
 
