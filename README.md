@@ -1,5 +1,6 @@
-Hi, I'm Bupe Kolosa 👋
-MSc Data Science · Mathematics & Business Analytics · Data Analyst · Analytics Consultant · Lecturer
+**Hi, I'm Bupe Kolosa** 👋
+
+**MSc Data Science · Mathematics & Business Analytics · Data Analyst · Analytics Consultant · Lecturer**
 
 I use data science, statistical modelling, machine learning, and business intelligence to solve practical problems in public health, finance, business, and development—with a particular interest in challenges facing Zambia and other African economies.
 
@@ -8,17 +9,27 @@ My work sits at the intersection of data, mathematics, technology, and decision-
 I work with Python, R, SQL, STATA, Excel, Power BI, and Jupyter, applying statistical and machine-learning methods to transform complex datasets into interpretable evidence.
 
 🔎 What I Work On
+
 🧬 Public Health & Health Data Science — NCDs, HIV, metabolic health, health-service data
+
 🤖 Machine Learning — classification, clustering, feature selection, model evaluation and explainability
+
 📊 Business Intelligence — dashboards, reporting, data quality and decision-support analytics
+
 💳 Financial & Credit Analytics — portfolio analysis, risk analytics and financial performance monitoring
+
 📈 Statistical & Econometric Modelling — regression, forecasting, time series and quantitative modelling
+
 🏛️ Development & Public Policy Analytics — economic, governance and institutional data
+
 💻 ICT & Data Science Education — applying technology and analytics to teaching and research
+
 🧪 Research & Applied Analytics
+
 My portfolio focuses on questions where quantitative analysis can contribute to practical decisions.
 
 🩺 Machine Learning for NCD Classification Among People Living With HIV in Zambia
+
 Research examining the use of machine-learning techniques to classify prevalent non-communicable disease among people living with HIV in Zambia.
 
 Methods & tools:
@@ -28,6 +39,7 @@ Python Pandas Scikit-learn Machine Learning SHAP Cross-validation Model Calibrat
 The work focuses on developing leakage-aware predictive models, evaluating discrimination and calibration, and interpreting model behaviour in a public-health context.
 
 🧬 Latent Metabolic Risk Profiles Among Adults With HIV in Zambia
+
 An unsupervised-learning study investigating whether adults living with HIV can be grouped into distinct metabolic risk profiles.
 
 Methods:
